@@ -70,7 +70,7 @@ To run the script I saved the file and changed the permission to 755 following b
 
 
 
-**Permissions breakdown**
+**Iteration Visual Representation**
 ### Visual Representation of Iteration
 | Step   | i Value | Condition (`i <= num`) | Action           | Output (if num=3) |
 |--------|---------|------------------------|------------------|-------------------|
